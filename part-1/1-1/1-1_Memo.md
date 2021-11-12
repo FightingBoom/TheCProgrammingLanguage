@@ -30,6 +30,8 @@ zhaoc@ubuntu2004:~/09-GitRepository/TheCProgrammingLanguage/part-1/1-1$ ./a.out
 hello,worldzhaoc@ubuntu2004:~/09-GitRepository/TheCProgrammingLanguage/part-1/1-1$
 ```
 
+这是正确的代码，因此编译没有任何错误。
+
 # 测试2
 
 源代码如下

@@ -1,6 +1,3 @@
-# TheCProgrammingLanguage
-《 The C Programming Language 》&amp;&amp;《 The C Answer Book》
-
 # 1 环境说明
 
 与 [FightingBoom/UsefulWheels](https://github.com/FightingBoom/UsefulWheels) 代码库使用环境保持一致；

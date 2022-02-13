@@ -2,7 +2,7 @@
 
 与 [FightingBoom/UsefulWheels](https://github.com/FightingBoom/UsefulWheels) 代码库使用环境保持一致；
 
-## 1.1 开发环境
+## 1.1 开发环境组合1
 
 ### 1.1.1 Windows 环境
 
@@ -56,3 +56,16 @@ Thread model: posix
 gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
 zhaoc@ubuntu2004:~$
 ```
+
+
+
+## 1.2 开发环境组合2
+
+1、使用在线编译网站：https://ideone.com/sn24jt#/stdin
+
+2、C语言编译器版本如下
+
+```shell
+language:C (gcc 8.3)
+```
+
